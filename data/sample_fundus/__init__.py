@@ -1,0 +1,1 @@
+"""Sample fundus fixtures package."""

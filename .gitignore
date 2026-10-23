@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and checkpoints
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Large model weights (use Git LFS or external model storage)
+*.h5
+*.keras
+*.weights.h5
+checkpoints/
+
+# Environments
+.env
+.env.*
+venv/
+.venv/
+env/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
